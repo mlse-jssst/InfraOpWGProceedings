@@ -18,8 +18,11 @@ This repository includes proceedings of Infrastructures and Operations for Produ
     - [夏合宿2020](https://sites.google.com/view/sig-mlse/%E6%B4%BB%E5%8B%95%E4%BA%88%E5%AE%9A/%E5%A4%8F%E5%90%88%E5%AE%BF2020)
 - 20201106_UsecaseConference
   - 当WG主催の「機械学習基盤 本番適用と運用の事例・知見共有会」におけるsli.doに投稿された質問集
+    登壇映像アーカイブとセットでご覧ください。
   - イベント
     - https://mlxse.connpass.com/event/187583/
+  - 登壇映像アーカイブ
+    - https://www.youtube.com/watch?v=nNFCc3nowfg
 
 ## 行動規範
 
