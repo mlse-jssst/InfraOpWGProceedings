@@ -23,6 +23,10 @@ This repository includes proceedings of Infrastructures and Operations for Produ
     - https://mlxse.connpass.com/event/187583/
   - 登壇映像アーカイブ
     - https://www.youtube.com/watch?v=nNFCc3nowfg
+- 20210703_SummerCamp
+  -  MLSE夏合宿の際のディスカッション（討論会・相談会）の議事メモ
+  -  イベント
+    -  [MLSE夏合宿2021のConnpassサイト](https://mlxse.connpass.com/event/212428/)
 
 ## 行動規範
 
