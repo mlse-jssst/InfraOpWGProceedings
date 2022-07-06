@@ -27,6 +27,10 @@ This repository includes proceedings of Infrastructures and Operations for Produ
   -  MLSE夏合宿の際のディスカッション（討論会・相談会）の議事メモ
   -  イベント
     -  [MLSE夏合宿2021のConnpassサイト](https://mlxse.connpass.com/event/212428/)
+- 20220702_SummerCamp
+  -  MLSE夏合宿の際のディスカッション（振り返り＆討論）のポスターまとめ
+  -  イベント
+    -  [MLSE夏合宿2022のConnpassサイト](https://mlxse.connpass.com/event/248383/)
 
 ## 行動規範
 
